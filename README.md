@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @death-grin
+<!-- - 👋 Hi, I’m @death-grin -->
+@death_grin
 
 <!---
 death-grin/death-grin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
